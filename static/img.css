@@ -1,5 +1,5 @@
 #article-container img {
-  width: auto !important;
+  width: auto;
   max-width: 100%;
   height: auto;
   display: block;
