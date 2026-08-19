@@ -4208,7 +4208,7 @@ blockquote > :last-child {
   content: '';
 }
 #page-header.full_page {
-  height: 200px;
+  height: 300px;
   background-attachment: fixed;
 }
 #page-header.full_page #site-info {
